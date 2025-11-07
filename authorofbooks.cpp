@@ -47,6 +47,7 @@ Call display() for each object to show the initialized data.
 STEP 6:End the program.
 
 🧭 Code
+	
 #include <iostream>
 using namespace std;
 class Book {
