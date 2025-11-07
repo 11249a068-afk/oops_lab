@@ -1,5 +1,5 @@
   
-                                                              1.RECORDS OF STUDENTS   
+                                          ---- 1.RECORDS OF STUDENTS-----
 
 🧭 Aim
 
@@ -75,5 +75,6 @@ return 0;
 
 
 }
+
 
 
