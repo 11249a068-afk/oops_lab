@@ -1,13 +1,12 @@
   
                                                               1.RECORDS OF STUDENTS   
 
-🧭 Ai
+🧭 Aim
 
 To write a C++ program that defines a class student having data members name, rollno, and marks, and to display the details of multiple students using a member function.
 
 🧭 Algorithm
 
-STEP 1
 
 STEP 1:Start the program.
 
@@ -76,4 +75,5 @@ return 0;
 
 
 }
+
 
