@@ -1,3 +1,22 @@
+                                ---7. BANK ACCOUNT DETAILS---
+
+🧭 Aim
+
+To implement a class Account that stores customer account details.
+
+🧭 Algorithm
+
+	
+1. Start the program.
+2. Define a class Account with accNo, name, and balance.
+3. Define a function display() to show account details.
+4. In main(), create two Account objects.
+5. Assign values to data members.
+6. Display the details.
+7. Stop the program.
+
+🧭 Code
+
 #include <iostream> 
 using namespace std;
 
@@ -33,3 +52,5 @@ int main()
 
     return 0;
 }
+
+
