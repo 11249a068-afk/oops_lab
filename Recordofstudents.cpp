@@ -3,7 +3,7 @@
 
 🧭 Aim
 
-To write a C++ program that defines a class student having data members name, rollno, and marks, and to display the details of multiple students using a member function.
+//To write a C++ program that defines a class student having data members name, rollno, and marks, and to display the details of multiple students using a member function//.
 
 🧭 Algorithm
 
@@ -71,9 +71,6 @@ int main()
  s2.display();
  s3.display();
 return 0;
-
-
-
 }
 
 
