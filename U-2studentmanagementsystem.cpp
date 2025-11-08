@@ -2,8 +2,8 @@
                                                                                                                                    
 🧭 Aim
 
-To design a C++ program using classes that manages student details and demonstrates constructors,
-destructors, static members, and arrays.
+//To design a C++ program using classes that manages student details and demonstrates constructors,
+destructors, static members, and arrays.//
 
 
 🧭 Algorithm
