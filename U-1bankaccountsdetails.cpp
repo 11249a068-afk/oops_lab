@@ -2,7 +2,7 @@
 
 🧭 Aim
 
-To implement a class Account that stores customer account details.
+//To implement a class Account that stores customer account details.//
 
 🧭 Algorithm
 
