@@ -2,7 +2,7 @@
 
 🧭 Aim
 
-To write a C++ program that defines a class Employee with data members such as id, name, and salary, and a member function to calculate and display a 10% bonus for each employee using constructors (including a default constructor).
+//To write a C++ program that defines a class Employee with data members such as id, name, and salary, and a member function to calculate and display a 10% bonus for each employee using constructors (including a default constructor).//
 
 🧭 Algorithm
 
