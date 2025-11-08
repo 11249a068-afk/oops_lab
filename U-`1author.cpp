@@ -2,7 +2,7 @@
                                                                                                                                    
 🧭 Aim
 
-To write a C++ program that defines a class book with data members title, author, and price, and to display the details of books using a member function.
+//To write a C++ program that defines a class book with data members title, author, and price, and to display the details of books using a member function.//
 
 🧭 Algorithm
 	
