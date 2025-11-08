@@ -2,7 +2,7 @@
 
 🧭 Aim
 
-To write a C++ program that defines a class BankAccount to maintain customer account details using constructors, member functions, and a static data member to count the total number of accounts.
+//To write a C++ program that defines a class BankAccount to maintain customer account details using constructors, member functions, and a static data member to count the total number of accounts.//
 
 🧭 Algorithm
 	
