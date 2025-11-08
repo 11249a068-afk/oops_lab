@@ -2,7 +2,7 @@
 
 🧭 Aim
 
-To write a C++ program that demonstrates the use of default constructor, parameterized constructor, and copy constructor using a class Book.
+//To write a C++ program that demonstrates the use of default constructor, parameterized constructor, and copy constructor using a class Book.//
 
 🧭 Algorithm
 	
