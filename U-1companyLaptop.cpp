@@ -2,7 +2,7 @@
 
 🧭 Aim
 
-To write a C++ program that defines a class car with data members model, company, and price, and displays the details of cars using a member function.
+//To write a C++ program that defines a class car with data members model, company, and price, and displays the details of cars using a member function.//
 
 🧭 Algorithm
 
@@ -40,5 +40,6 @@ int main(){
     l2.display();
     return 0;
 }
+
 
 
